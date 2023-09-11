@@ -1,1 +1,1 @@
-# Credit-Card-Analytics
+# Credit-Card-Spending-Habits
